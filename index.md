@@ -14,7 +14,7 @@ This is my portfolio website, built using GitHub Pages and Markdown.
 
 #### My Picture
 
-<img src="NicoPhoto.jpg" alt="My Photo" width="300">
+<img src="NicoPhoto.png" alt="My Photo" width="300">
 
 
 Feel free to explore the links above to see my work!
