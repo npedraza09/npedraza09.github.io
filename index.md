@@ -33,12 +33,12 @@ This project focuses on the analysis of the Monthly Retail Trade Survey (MRTS) d
 * Libraries: Pandas, Numpy, Mysqlconnector, Matplotlib.pyplot, Sqlalchemy
 * Jupyter Notebook
 
-<a href=
+<a href="https://npedraza09.github.io/ETL-Analysis-and-Visualization-of-MRTS-Data"> ETL, Analysis, and Visualization of MRTS Data </a>
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
-[Nicolas Pedraza](https://www.linkedin.com/in/nicolas-pedrazab/)
-npedraza092002@gmail.com
+* [Nicolas Pedraza](https://www.linkedin.com/in/nicolas-pedrazab/)
+* npedraza092002@gmail.com
 
 
 
