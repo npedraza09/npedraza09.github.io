@@ -23,7 +23,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 
 <a class="anchor" id="project2"></a>
 >## Project 2
-This project focuses on the analysis of the Monthly Retail Trade Survey (MRTS) data to uncover trends in U.S. retail sales across various business categories. The analysis was conducted through an ETL process, beginning with SQL installation, querying, and extraction of the MRTS data, followed by cleaning and transformation using Python. Key metrics such as total sales, percentage contributions, and rolling averages were computed for categories like food services, sporting goods, and clothing stores. The data visualization revealed key insights, including the rise in spending on sporting goods, the decline of bookstores, and the shrinking gap between men’s and women’s clothing stores in terms of contribution to retail totals. The use of rolling time windows smoothed the data, providing clearer long-term trends. This comprehensive analysis demonstrates how retail sectors have evolved, with notable shifts in consumer behavior over time.
+  This project focuses on the analysis of the Monthly Retail Trade Survey (MRTS) data to uncover trends in U.S. retail sales across various business categories. The analysis was conducted through an ETL process, beginning with SQL installation, querying, and extraction of the MRTS data, followed by cleaning and transformation using Python. Key metrics such as total sales, percentage contributions, and rolling averages were computed for categories like food services, sporting goods, and clothing stores. The data visualization revealed key insights, including the rise in spending on sporting goods, the decline of bookstores, and the shrinking gap between men’s and women’s clothing stores in terms of contribution to retail totals. The use of rolling time windows smoothed the data, providing clearer long-term trends. This comprehensive analysis demonstrates how retail sectors have evolved, with notable shifts in consumer behavior over time.
 ### Tools:
 * Python
 * MySQL
@@ -32,7 +32,7 @@ This project focuses on the analysis of the Monthly Retail Trade Survey (MRTS) d
 * Libraries: Pandas, Numpy, Mysqlconnector, Matplotlib.pyplot, Sqlalchemy
 * Jupyter Notebook
 
->Click the following link to check out the full project:
+##### Click the following link to check out the full project:
 <a href="https://npedraza09.github.io/ETL-Analysis-and-Visualization-of-MRTS-Data"> ETL, Analysis, and Visualization of MRTS Data</a>
 
 <a class="anchor" id="contact"></a>
