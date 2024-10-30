@@ -17,7 +17,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 * Python
 * Libraries: Pandas, Numpy, Matplotlib.pyplot, Scipy.stats, and Sklearn
 * Jupyter Notebook
-  Click the following link to check out the full project:
+Click the following link to check out the full project:
 <a href="https://npedraza09.github.io/Model-to-Predict-Housing-Prices"> Model to Predict Housing Prices</a>
 
 <a class="anchor" id="project2"></a>
