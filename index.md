@@ -46,6 +46,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 * Postman
 * Google Chrome
 * Python
+* JSON
 * Visual Studio Code
 
 ##### Click the following link to check out the full project:
