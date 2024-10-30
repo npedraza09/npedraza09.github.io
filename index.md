@@ -1,7 +1,7 @@
 # My GitHub Portfolio
 
 ## Welcome! I am Nicolas Pedraza. 
-I am a highly motivated and solution-driven Mechanical and Data Engineer, with a passion for technology and project management. Currently, I am pursuing a Professional Certificate in Data Engineering through MIT xPro, where I have sharpened my expertise in Python, SQL, ETL processes, and data visualization. My technical skills, combined with a strong background in mechanical engineering and hands-on project management, enable me to tackle complex problems and deliver impactful results.
+I am a highly motivated and solution-driven Mechanical and Data Engineer, with a passion for technology and project management. Currently, I am pursuing a Professional Certificate in Data Engineering through MIT xPro, where I have sharpened my expertise in Python, SQL, ETL processes, database administration, data warehousing and visualization, and API development. My technical skills, combined with a strong background in mechanical engineering and hands-on project management, enable me to tackle complex problems and deliver impactful results.
 
 ---
 
@@ -18,7 +18,7 @@ In this project, I developed a housing sale price prediction model using linear 
 * Libraries: Pandas, Numpy, Matplotlib.pyplot, Scipy.stats, and Sklearn
 * Jupyter Notebook
 
-<a href="https://npedraza09.github.io/Model-to-Predict-Housing-Prices"> Model to Predict Housing Prices </a>
+<a href="https://npedraza09.github.io/Model-to-Predict-Housing-Prices"> Model to Predict Housing Prices, Click me </a>
 
 <a class="anchor" id="project2"></a>
 >## Project 2
@@ -31,7 +31,7 @@ This project focuses on the analysis of the Monthly Retail Trade Survey (MRTS) d
 * Libraries: Pandas, Numpy, Mysqlconnector, Matplotlib.pyplot, Sqlalchemy
 * Jupyter Notebook
 
-<a href="https://npedraza09.github.io/ETL-Analysis-and-Visualization-of-MRTS-Data"> ETL, Analysis, and Visualization of MRTS Data </a>
+<a href="https://npedraza09.github.io/ETL-Analysis-and-Visualization-of-MRTS-Data"> ETL, Analysis, and Visualization of MRTS Data, Click me </a>
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
