@@ -18,7 +18,7 @@ In this project, I developed a housing sale price prediction model using linear 
 * Libraries: Pandas, Numpy, Matplotlib.pyplot, Scipy.stats, and Sklearn
 * Jupyter Notebook
 
-<a href="https://npedraza09.github.io/Model-to-Predict-Housing-Prices"> Model to Predict Housing Prices, Click me </a>
+<a href="https://npedraza09.github.io/Model-to-Predict-Housing-Prices"> Model to Predict Housing Prices, CLICK ME </a>
 
 <a class="anchor" id="project2"></a>
 >## Project 2
@@ -31,7 +31,7 @@ This project focuses on the analysis of the Monthly Retail Trade Survey (MRTS) d
 * Libraries: Pandas, Numpy, Mysqlconnector, Matplotlib.pyplot, Sqlalchemy
 * Jupyter Notebook
 
-<a href="https://npedraza09.github.io/ETL-Analysis-and-Visualization-of-MRTS-Data"> ETL, Analysis, and Visualization of MRTS Data, Click me </a>
+<a href="https://npedraza09.github.io/ETL-Analysis-and-Visualization-of-MRTS-Data"> ETL, Analysis, and Visualization of MRTS Data, CLICK ME </a>
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
