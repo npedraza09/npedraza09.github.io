@@ -40,7 +40,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 
 <a class="anchor" id="project3"></a>
 >## Project 3: Web Server App for Flight Data
-
+  In this project, through Strapi I designed a web server application for managing flight data using a content management system. I created structured collections for Airlines, Airports, and Flights, populated each with sample data, and used Postman to interact with the server. Through GET, POST, PUT, and DELETE requests, I demonstrated the ability to retrieve, create, update, and delete flight records. Additionally, I implemented a Python application to make GET requests to the server, verifying data retrieval through Visual Studio Code. This project highlights my skills in web server management, API requests, and practical application development using CMS and Postman.
   ### Tools:
 * Strapi
 * Postman
