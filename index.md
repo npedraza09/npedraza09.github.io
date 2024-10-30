@@ -1,7 +1,7 @@
 # My GitHub Portfolio
 
 ## Welcome! I am Nicolas Pedraza. 
-I am a highly motivated and solution-driven Mechanical and Data Engineer, with a passion for technology and project management. Currently, I am pursuing a Professional Certificate in Data Engineering through MIT xPro, where I have sharpened my expertise in Python, SQL, ETL processes, database administration, data warehousing and visualization, and API development. My technical skills, combined with a strong background in mechanical engineering and hands-on project management, enable me to tackle complex problems and deliver impactful results.
+I am a highly motivated and solution-driven Data and Mechanical Engineer, with a passion for technology and project management. Currently, I am pursuing a Professional Certificate in Data Engineering through MIT xPro, where I have sharpened my expertise in Python, SQL, ETL processes, database administration, data warehousing and visualization, and API development. My technical skills, combined with a background in mechanical engineering, and hands-on project management, enable me to tackle complex problems and deliver impactful results.
 
 ---
 
@@ -10,7 +10,7 @@ I am a highly motivated and solution-driven Mechanical and Data Engineer, with a
 * [ETL, Analysis, and Visualization of MRTS Data Project](#project2)
 * [Contact Information](#contact)
 
-<a class="anchor" id="project 1"></a>
+<a class="anchor" id="project1"></a>
 >## Project 1
 In this project, I developed a housing sale price prediction model using linear regression, focusing on feature selection and correlation analysis to identify the most impactful variables. After cleaning the dataset, we used features with strong positive and negative correlations (above 0.4 or below -0.4) to predict housing prices. Missing values were handled by imputing the mean, and the selected features were used to train the linear regression model. The model's performance was evaluated using the R^2 score, which measures how well the model explains the variance in housing prices. Residual analysis, through histograms of prediction errors, showed a reasonably symmetric distribution, indicating accurate predictions with low bias. This model provides a simple yet effective approach to predicting housing prices, offering insights into key drivers of value and laying the groundwork for future improvements and applications in real estate analysis.
 ### Tools:
