@@ -55,7 +55,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
-* [Nicolas Pedraza](https://www.linkedin.com/in/nicolas-pedrazab/)
+* [LinkedIn](https://www.linkedin.com/in/nicolas-pedrazab/)
 * npedraza092002@gmail.com
 
 
