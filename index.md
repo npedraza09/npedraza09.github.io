@@ -1,7 +1,7 @@
 # My GitHub Portfolio
 
 ## Welcome! I am Nicolas Pedraza. 
-I am a highly motivated and solution-driven Data and Mechanical Engineer, with a passion for technology and project management. Currently, I am pursuing a Professional Certificate in Data Engineering through MIT xPro, where I have sharpened my expertise in Python, SQL, ETL processes, database administration, data warehousing and visualization, and API development. My technical skills, combined with a background in mechanical engineering, and hands-on project management, enable me to tackle complex problems and deliver impactful results.
+I am a highly motivated and solution-driven Data and Mechanical Engineer, with a passion for technology and project management. Currently, I am pursuing a Professional Certificate in Data Engineering through MIT xPro, where I have sharpened my expertise in Programming Languages(Python, SQL), Database Systems(SQL, NoSQL), Data Warehousing and Visualization, REST API development, and ETL Tools. My technical skills, combined with a background in mechanical engineering, and hands-on project management, enable me to tackle complex problems and deliver impactful results.
 
 ---
 
