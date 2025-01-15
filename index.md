@@ -56,7 +56,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 
 <a class="anchor" id="project4"></a>
 >## Project 4: Books Web Application
-  My Books Web Application project is a simple website for a collection of books where users(depending on their authorization status) can look, search, add, delete, and eventually buy books. In the web app, users have an account that has to be authenticated to enter the app. The web app was created through Visual Studio Code as IDE using Python, HTML, and JSON. The framework for the web app was done with the help of Flask. Finally, the authentication and authorization protocols were done using JSON Web Tokens.
+  The My Books Web Application project is a streamlined platform designed for managing a book collection, allowing users—based on their authorization level—to browse, search, add, delete, and potentially purchase books. The application requires users to create and authenticate an account to access its features. Developed using Visual Studio Code as the IDE, the project leverages Python, HTML, and JSON for functionality and structure. The web framework was built using Flask, with authentication and authorization protocols implemented via JSON Web Tokens (JWTs) to ensure secure access control.
 ### Tools:
 * Python
 * JSON
