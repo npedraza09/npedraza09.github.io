@@ -65,7 +65,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 * Visual Studio Code
 
 ##### Click the following link to check out the full project:
-<a href="https://npedraza09.github.io/Web-server-app-for-flight-data">Books Web Application</a>
+<a href="https://npedraza09.github.io/Books-Web-Application-Project">Books Web Application</a>
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
