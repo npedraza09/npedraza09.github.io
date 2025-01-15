@@ -9,6 +9,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 * [Model to Predict Housing Prices](#project1)
 * [ETL, Analysis, and Visualization of MRTS Data](#project2)
 * [Web Server App for Flight Data](#project3)
+* [Books Web Application](#project4)
 * [Contact Information](#contact)
 
 <a class="anchor" id="project1"></a>
@@ -52,6 +53,19 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 ##### Click the following link to check out the full project:
 <a href="https://npedraza09.github.io/Web-server-app-for-flight-data"> Web Server App for Flight Data</a>
 
+
+<a class="anchor" id="project4"></a>
+>## Project 4: Books Web Application
+  My Books Web Application project is a simple website for a collection of books where users(depending on their authorization status) can look, search, add, delete, and eventually buy books. In the web app, users have an account that has to be authenticated to enter the app. The web app was created through Visual Studio Code as IDE using Python, HTML, and JSON. The framework for the web app was done with the help of Flask. Finally, the authentication and authorization protocols were done using JSON Web Tokens.
+### Tools:
+* Python
+* JSON
+* HTML
+* Libraries: Flask, flask_jwt_extended, functools, and os
+* Visual Studio Code
+
+##### Click the following link to check out the full project:
+<a href="https://npedraza09.github.io/Web-server-app-for-flight-data">Books Web Application</a>
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
