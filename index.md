@@ -10,6 +10,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 * [ETL, Analysis, and Visualization of MRTS Data](#project2)
 * [Web Server App for Flight Data](#project3)
 * [Books Web Application](#project4)
+* [Transit Data Application](#project5)
 * [Contact Information](#contact)
 
 <a class="anchor" id="project1"></a>
@@ -56,7 +57,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 
 <a class="anchor" id="project4"></a>
 >## Project 4: Books Web Application
-  The My Books Web Application project is a streamlined platform designed for managing a book collection, allowing users—based on their authorization level—to browse, search, add, delete, and potentially purchase books. The application requires users to create and authenticate an account to access its features. Developed using Visual Studio Code as the IDE, the project leverages Python, HTML, and JSON for functionality and structure. The web framework was built using Flask and Bootstrap, with authentication and authorization protocols implemented via JSON Web Tokens (JWTs) to ensure secure access control.
+  The Books Web Application project is a streamlined platform designed for managing a book collection, allowing users—based on their authorization level—to browse, search, add, delete, and potentially purchase books. The application requires users to create and authenticate an account to access its features. Developed using Visual Studio Code as the IDE, the project leverages Python, HTML, and JSON for functionality and structure. The web framework was built using Flask and Bootstrap, with authentication and authorization protocols implemented via JSON Web Tokens (JWTs) to ensure secure access control.
 ### Tools:
 * Python
 * JSON
@@ -66,6 +67,15 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 
 ##### Click the following link to check out the full project:
 <a href="https://npedraza09.github.io/Books-Web-Application-Project">Books Web Application</a>
+
+
+<a class="anchor" id="project5"></a>
+>## Project 5: Transit Data Application
+  This project is a real-time bus tracking and data analysis system designed to monitor and analyze the performance of bus route 1 from the Massachusetts Bay Transportation Authority (MBTA). Using a Flask-based web application, the system visualizes real-time bus locations while leveraging a multi-server architecture within a Docker network called MBTANetwork. Data is collected from the MBTA API, stored in a MySQL database, and processed using Debezium for change data capture before being stored in MongoDB. The system calculates metrics like route completion times, average stop durations, and bus speeds, offering valuable insights into public transportation performance. By combining technologies like Flask, MySQL, Debezium, MongoDB, and Java, this project demonstrates the potential for integrated systems to enhance the efficiency and experience of public transit.
+
+##### Click the following link to check out the full project:
+<a href="https://npedraza09.github.io/Transit-Data-Application">Books Web Application</a>
+
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
