@@ -74,7 +74,7 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
   This project is a real-time bus tracking and data analysis system designed to monitor and analyze the performance of bus route 1 from the Massachusetts Bay Transportation Authority (MBTA). Using a Flask-based web application, the system visualizes real-time bus locations while leveraging a multi-server architecture within a Docker network called MBTANetwork. Data is collected from the MBTA API, stored in a MySQL database, and processed using Debezium for change data capture before being stored in MongoDB. The system calculates metrics like route completion times, average stop durations, and bus speeds, offering valuable insights into public transportation performance. By combining technologies like Flask, MySQL, Debezium, MongoDB, and Java, this project demonstrates the potential for integrated systems to enhance the efficiency and experience of public transit.
 
 ##### Click the following link to check out the full project:
-<a href="https://npedraza09.github.io/Transit-Data-Application">Books Web Application</a>
+<a href="https://npedraza09.github.io/Transit-Data-Application">Transit Data Application</a>
 
 
 <a class="anchor" id="contact"></a>
