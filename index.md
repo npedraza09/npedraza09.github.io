@@ -1,7 +1,7 @@
 # My GitHub Portfolio
 
 ## Welcome! I am Nicolas Pedraza. 
-I am a highly motivated and solution-driven Data and Mechanical Engineer, with a passion for technology and project management. Currently, I am pursuing a Professional Certificate in Data Engineering through MIT xPro, where I have sharpened my expertise in Programming Languages(Python, SQL), Database Systems(SQL, NoSQL), Data Warehousing and Visualization, REST API development, and ETL Tools. My technical skills, combined with a background in mechanical engineering, and hands-on project management, enable me to tackle complex problems and deliver impactful results.
+I'm a passionate Data Engineer and Mechanical Engineer with an aptitude for transforming complex data into meaningful insights. After earning my Professional Certificate in Data Engineering from MIT xPro, I've built real-world solutions ranging from real-time streaming with a containerized Kafka ecosystem to predictive modeling and secure web applications. I thrive on crafting scalable data pipelines, harnessing the power of AI, and pushing the boundaries of cloud-based technologies. I'm excited to explore innovative opportunities in technology consulting and collaborate on projects that drive impactful change.
 
 ---
 
@@ -11,6 +11,9 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 * [Web Server App for Flight Data](#project3)
 * [Books Web Application](#project4)
 * [Transit Data Application](#project5)
+* [Sensemaking Data Pipeline](#project6)
+* [Streaming and Analyzing Live Data](#project7)
+* [Real-Time IoT Data Streaming](#project8)
 * [Contact Information](#contact)
 
 <a class="anchor" id="project1"></a>
@@ -46,7 +49,6 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 ### Tools:
 * Strapi
 * Postman
-* Google Chrome
 * Python
 * JSON
 * Visual Studio Code
@@ -85,6 +87,53 @@ I am a highly motivated and solution-driven Data and Mechanical Engineer, with a
 
 ##### Click the following link to check out the full project:
 <a href="https://npedraza09.github.io/Transit-Data-Application">Transit Data Application</a>
+
+
+<a class="anchor" id="project6"></a>
+>## Project 6: Sensemaking Data Pipeline
+  This project is designed to scrape, clean, and structure MIT course catalog data for word-frequency analysis while showcasing a fully containerized and orchestrated workflow. Leveraging Python’s urllib and BeautifulSoup for web scraping, the pipeline transforms raw HTML into structured data and then processes it through Docker and Airflow to ensure efficient and modular task execution. The resulting JSON word counts feed into an interactive JavaScript and D3-based bubble chart, providing a visually engaging overview of course content trends. By integrating Python-driven data ingestion and transformation with front-end data storytelling, this project demonstrates an end-to-end solution for extracting insights from unstructured web data.
+### Tools:
+* Python
+* JavaScript
+* HTML
+* JSON
+* Airflow
+* Libraries: urllib, BeautifulSoup, os, D3, and airflow
+* Visual Studio Code
+
+##### Click the following link to check out the full project:
+<a href=" ">Sensemaking Datapipeline</a>
+
+
+<a class="anchor" id="project7"></a>
+>## Project 7: Streaming and Analyzing Live Data
+  This project is designed to stream real-time temperature and humidity data using a Dockerized MQTT (Mosquitto) broker and Python’s Paho MQTT client, seamlessly integrating with ThingsBoard and Firebase Realtime Database for automated storage and visualization. Leveraging containerized microservices to orchestrate sensor-to-cloud data pipelines, the system ensures robust and modular data ingestion and processing. The alarm rule chain in ThingsBoard detects threshold-exceeding data, sending critical alerts to Firebase for immediate oversight. By uniting Docker, MQTT, and cloud-based platforms, this project demonstrates a full-stack IoT solution, showcasing the potential for proactive data-driven insights and real-time analytics.
+### Tools:
+* Python
+* JSON
+* ThingsBoard
+* Firebase
+* Libraries: Paho.mqtt
+* Visual Studio Code
+
+##### Click the following link to check out the full project:
+<a href=" ">Streaming and Analyzing Live Data</a>
+
+
+<a class="anchor" id="project8"></a>
+>## Project 8: Real-Time IoT Data Streaming
+  This project is designed to enable robust, fault-tolerant data streaming by leveraging Confluent’s Docker image for ZooKeeper, the Kafka broker, and Control Center. Real-time vehicle location data is produced through a Python client and consumed by a Node.js web server, which visualizes IoT streams in a user-friendly interface. By uniting Docker, Python, and Node.js, the system ensures seamless message production, consumption, and fault-tolerant data handling, illustrating a comprehensive, end-to-end approach to real-time data processing.
+### Tools:
+* Python
+* JavaScript
+* JSON
+* Kafka
+* Node.js
+* Libraries: Kafka
+* Visual Studio Code
+
+##### Click the following link to check out the full project:
+<a href=" ">Real-Time IoT Data Streaming</a>
 
 
 <a class="anchor" id="contact"></a>
