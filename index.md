@@ -16,6 +16,7 @@ I'm a passionate Data Engineer and Mechanical Engineer with an aptitude for tran
 
 <a class="anchor" id="project1"></a>
 >## Project 1: Model to Predict Housing Prices 
+<img width="468" alt="image" src="https://drek4537l1klr.cloudfront.net/serrano/v-4/Figures/image028.png">
 
 
 ##### Click the following link to check out the full project:
