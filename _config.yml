@@ -1,14 +1,6 @@
 title: Nicolas Pedraza
 logo: NicoPhoto.png
-show_downloads: true
+description: 
+- P.Professional Certificate Data Engineering MIT xPro (Feb 2025)
+- B.S Mechanical Engineering Loyola Marymount University (Dec 2024)
 theme: jekyll-theme-minimal
-
-style: |
-  /* Targets the logo image specifically. 
-     Adjust selectors as needed based on your theme's structure. */
-  img[src*="NicoPhoto.png"] {
-    width: 150px;       /* Set the width to your desired size */
-    height: 150px;      /* Set the height to match the width */
-    border-radius: 50%; /* Makes the image circular */
-    object-fit: cover;  /* Ensures the image fits nicely within the circle */
-  }
