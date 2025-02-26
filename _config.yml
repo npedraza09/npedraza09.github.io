@@ -1,4 +1,14 @@
-title: Nicolas Pedraza Portolfio
-logo: NicoPhoto.png
+title: "Nicolas Pedraza Bolivar"
+logo: "NicoPhoto.png"
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: "jekyll-theme-minimal"
+
+style: |
+  /* Targets the logo image specifically. 
+     Adjust selectors as needed based on your theme's structure. */
+  img[src*="NicoPhoto.png"] {
+    width: 150px;       /* Set the width to your desired size */
+    height: 150px;      /* Set the height to match the width */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover;  /* Ensures the image fits nicely within the circle */
+  }
