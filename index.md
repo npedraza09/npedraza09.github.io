@@ -1,7 +1,4 @@
-
-# My GitHub Portfolio
-
-## Welcome! I am Nicolas Pedraza. 
+## Welcome to my Portfolio!
 I'm a passionate Data Engineer and Mechanical Engineer with an aptitude for transforming complex data into meaningful insights. From my Mechanical Engineering degree I developed many skills, but the two skills that I believe to be the most important out of all of those obtained from my degree are: critical thinking and problem solving. With a growing passion for AI, cloud computing, and data, I decided to transfer those skills to Data Engineering. Now, with a Professional Certificate in Data Engineering from MIT xPro, I've built real-world solutions ranging from real-time streaming with a containerized Kafka ecosystem to predictive modeling and secure web applications. I thrive on crafting scalable data pipelines, harnessing the power of AI, and pushing the boundaries of cloud-based technologies. I'm excited to explore innovative opportunities in technology consulting and collaborate on projects that drive impactful change.
 
 ---
