@@ -1,7 +1,7 @@
-title: "Nicolas Pedraza Bolivar"
-logo: "NicoPhoto.png"
+title: Nicolas Pedraza
+logo: NicoPhoto.png
 show_downloads: true
-theme: "jekyll-theme-minimal"
+theme: jekyll-theme-minimal
 
 style: |
   /* Targets the logo image specifically. 
