@@ -79,7 +79,7 @@ I'm a passionate Data Engineer and Mechanical Engineer with an aptitude for tran
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/729c44f6-4dc0-4a70-a95d-686e4ebaf330" />
 
 #### Click the following link to check out the full project:
-<a href="https://npedraza09.github.io/Real-Time-IoT-Data-Streaming/">Real-Time IoT Data Streaming</a>
+<a href="https://github.com/npedraza09/Real-Time-IoT-Data-Streaming">Real-Time IoT Data Streaming</a>
 
 
 <a class="anchor" id="contact"></a>
