@@ -71,7 +71,7 @@ I'm a passionate Data Engineer and Mechanical Engineer with an aptitude for tran
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c68fcf18-159a-4c86-9998-8eecf2192c70" />
 
 #### Click the following link to check out the full project:
-<a href="https://npedraza09.github.io/Streaming-and-Analyzing-Live-Data/">Streaming and Analyzing Live Data</a>
+<a href="https://github.com/npedraza09/Streaming-and-Analyzing-Live-Data">Streaming and Analyzing Live Data</a>
 
 
 <a class="anchor" id="project8"></a>
