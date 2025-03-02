@@ -63,7 +63,7 @@ I'm a passionate Data Engineer and Mechanical Engineer with an aptitude for tran
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/da559351-1ff4-4420-832f-2a3b113d64ed" />
 
 #### Click the following link to check out the full project:
-<a href="https://npedraza09.github.io/Sensemaking-Data-Pipeline/">Sensemaking Datapipeline</a>
+<a href="https://github.com/npedraza09/Sensemaking-Data-Pipeline">Sensemaking Datapipeline</a>
 
 
 <a class="anchor" id="project7"></a>
