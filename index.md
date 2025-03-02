@@ -47,7 +47,7 @@ I'm a passionate Data Engineer and Mechanical Engineer with an aptitude for tran
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/7f6aacaa-0731-4e76-b1ad-3d1a746d9651" />
 
 #### Click the following link to check out the full project:
-<a href="https://npedraza09.github.io/Books-Web-Application-Project">Books Web Application</a>
+<a href="https://github.com/npedraza09/Books-Web-Application-Project">Books Web Application</a>
 
 
 <a class="anchor" id="project5"></a>
