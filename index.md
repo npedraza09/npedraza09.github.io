@@ -55,7 +55,7 @@ I'm a passionate Data Engineer and Mechanical Engineer with an aptitude for tran
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/b405b6fd-0166-4a85-946a-b8e519058cd7" />
 
 #### Click the following link to check out the full project:
-<a href="https://npedraza09.github.io/Transit-Data-Application">Transit Data Application</a>
+<a href="https://github.com/npedraza09/Transit-Data-Application">Transit Data Application</a>
 
 
 <a class="anchor" id="project6"></a>
